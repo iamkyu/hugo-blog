@@ -1,4 +1,4 @@
-baseurl = "https://iamkyu.github.io/"
+baseurl = "https://iamkyu.github.io"
 languageCode = "ko-KR"
 title = "namkyujin.com"
 theme = "simple-style"
