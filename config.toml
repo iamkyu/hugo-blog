@@ -6,7 +6,7 @@ googleAnalytics = "UA-87267111-1"
 
 [params]
 #subtitle = "namkyujin.com"
-favicon = "favicon.ico"
+favicon = "/logo/favicon.ico"
 githubUrl = "https://github.com/iamkyu/iamkyu.github.io"
 referrer = "always"
 author = "남규진"
