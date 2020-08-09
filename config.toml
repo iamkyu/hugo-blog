@@ -1,0 +1,42 @@
+baseURL = "https://iamkyu.github.io"
+languageCode = "ko-KR"
+title = "namkyujin.com"
+theme = "simple-style"
+googleAnalytics = "UA-87267111-1"
+
+[params]
+#subtitle = "namkyujin.com"
+favicon = "favicon.ico"
+githubUrl = "https://github.com/iamkyu/iamkyu.github.io"
+referrer = "always"
+author = "남규진"
+description = "남규진의 개발 블로그"
+keywords = "java, spring framework"
+showThemeInfo = true
+googleSiteVerification = "<google-site-verification-code>"
+
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = false
+noClasses = true
+style = "dracula"
+tabWidth = 4
+
+[[menu.main]]
+weight = 1
+name = "blog"
+url = "/"
+
+[[menu.main]]
+weight = 20
+name = "books"
+url = "https://github.com/iamkyu/TIL/blob/master/books/books.md"
+
+[[menu.main]]
+weight = 90
+name = "about"
+url = "/about/"
