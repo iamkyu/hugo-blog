@@ -1,7 +1,9 @@
 # https://ruddra.com/hugo-deploy-static-page-using-github-actions/
 
 name: CI
-on: push
+on:
+  push:
+    branches: [ master ]
 jobs:
   deploy:
     runs-on: ubuntu-18.04
