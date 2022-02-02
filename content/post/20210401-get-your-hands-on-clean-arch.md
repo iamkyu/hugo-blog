@@ -46,9 +46,9 @@ share: true
 
 동감한다. 상황은 계속 변화하고 그 상황에 맞춰 최초 만들어진 아키텍처 그대로 있는 게 아닌, 변화한 상황에 맞춰 변해야 한다. 매 선택의 갈림길에서 손안에 여러 카드를 쥘 수 있어야 하고 그중 최고의 카드를 내기 위해 지속해서 배우고 공유해야겠다.
 
+책을 보고 작은 토이 프로젝트에 직접 적용해 본 코드는 [여기](https://github.com/iamkyu/lucky-money/tree/hexagonal-arch).
 
-
-[책 구매하기](https://www.amazon.com/Hands-Dirty-Clean-Architecture-hands-ebook/dp/B07YFS3DNF/ref=sr_1_2?dchild=1&keywords=get+your+hands&qid=1617199975&sr=8-2)
+[책 구매하기(원서)](https://www.amazon.com/Hands-Dirty-Clean-Architecture-hands-ebook/dp/B07YFS3DNF/ref=sr_1_2?dchild=1&keywords=get+your+hands&qid=1617199975&sr=8-2), [책 구매하기(번역)](https://book.naver.com/bookdb/book_detail.nhn?bid=21294056)
 
 
 
