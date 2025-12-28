@@ -8,4 +8,6 @@ title: about
 - [Github](https://github.com/iamkyu)
 
 
-> 2016년 12월, [티스토리](http://onoctober.tistory.com)에서 [지킬블로그](https://iamkyu.github.io)로 이전. 2020년 8월, 정적사이트생성기를 지킬에서 휴고로 변경
+#### 블로그 히스토리
+- 2016년 12월, [티스토리](http://onoctober.tistory.com)에서 [지킬블로그](https://iamkyu.github.io)로 이전. 
+- 2020년 8월, 정적사이트생성기를 지킬에서 휴고로 변경
